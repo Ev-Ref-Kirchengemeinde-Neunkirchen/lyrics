@@ -1,0 +1,14 @@
+site_name: "Lyrics"
+site_url: https://ev-ref-kirchengemeinde-neunkirchen.github.io/lyrics/
+site_description: "Liedtexte und weitere Inhalte für Open-Air-Gottesdienste der Ev.-Ref. Kirchengemeinde Neunkirchen"
+copyright: "Ev.-Ref. Kirchengemeinde Neunkirchen"
+theme: readthedocs
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+plugins:
+  - search
+nav:
+  - index.md
+  - Herr ich sehe deine Welt-lyrics.md
