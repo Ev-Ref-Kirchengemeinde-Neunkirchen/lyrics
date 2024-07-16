@@ -2,7 +2,9 @@ site_name: "Lyrics"
 site_url: https://ev-ref-kirchengemeinde-neunkirchen.github.io/lyrics/
 site_description: "Liedtexte und weitere Inhalte für Open-Air-Gottesdienste der Ev.-Ref. Kirchengemeinde Neunkirchen"
 copyright: "Ev.-Ref. Kirchengemeinde Neunkirchen"
-theme: readthedocs
+theme: 
+  name: readthedocs
+  locale: de
 markdown_extensions:
   - admonition
   - attr_list
@@ -12,3 +14,10 @@ plugins:
 nav:
   - index.md
   - Herr ich sehe deine Welt-lyrics.md
+  - Gott_spricht_ich_will_ausgießen.md
+  - Meine_Hoffnung_und_meine_Freude.md
+  - Glaubensbekenntnis_kleiner_Katechismus.md
+  - Ihr_werdet_die_Kraft_des_hl_Geistes.md
+  - Ich_sing_dir_mein_Lied.md
+  - Vater_unser.md
+  - Segenslied_wohl_denen_die_noch_träumen.md
