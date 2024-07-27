@@ -1,6 +1,6 @@
 # Herr ich sehe deine Welt
 
-## Verse 1
+## Vers 1
 Herr, ich sehe deine Welt,<br>
 das weite Himmelszelt,<br>
 die Wunder deiner Schöpfung.<br>
@@ -22,7 +22,7 @@ Staunend habe ich erkannt:<br>
 ich bin in deiner Hand,<br>
 und du lässt mich nicht los.<br>
 
-## Verse 2
+## Vers 2
 Auch die Menschen sind von dir<br>
 und haben Leben hier<br>
 durch deine große Güte.<br>
@@ -36,7 +36,7 @@ Deine Liebe macht ihn frei<br>
 von aller Tyrannei,<br>
 wenn er auf dich vertraut.<br>
 
-## Verse 3
+## Vers 3
 Herr, weil du der Herrscher bist<br>
 und alle Menschen siehst,<br>
 bin ich in dir geborgen.<br>
