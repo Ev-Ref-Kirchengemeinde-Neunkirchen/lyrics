@@ -19,7 +19,7 @@ das haben wir zu danken seinem Segen.<br>
 Lobet den Herren!
 
 ## Vers 4
-Dass Feuerflammen uns nicht allzusammen<br>
-mit unsern Häusern unversehns gefressen,<br>
-das macht's, dass wir in seinem Schoß gesessen.<br>
+Gib, dass wir heute, Herr, durch dein Geleite<br>
+auf unsern Wegen unverhindert gehen<br>
+und überall in deiner Gnate stehen<br>
 Lobet den Herren!

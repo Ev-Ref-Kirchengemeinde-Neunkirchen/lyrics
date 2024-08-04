@@ -16,6 +16,3 @@ Du hältst deine Hand über mich,<br>
 lass mich nicht allein.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Herr, weise mir deinen Weg<br>
 &nbsp;&nbsp;&nbsp;&nbsp;und leite mich ein Leben lang.<br>
-Ehre sei dem Vater und dem Sohn und dem Heiligen Geist,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;wie im Anfang, so auch jetzt und alle Zeit in Ewigkeit.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Amen
