@@ -24,10 +24,3 @@ sei in uns, uns zu erlösen,<br>
 sei Hilfe, sei Kraft, die Frieden schafft,<br>
 sei in uns, uns zu erlösen.<br>
 
-## Vers 4
-Bewahre uns, Gott, behüte uns, Gott,<br>
-sei mit uns durch deinen Segen.<br>
-Dein Heiliger Geist, der Leben verheißt,<br>
-sei um uns auf unsern Wegen,<br>
-dein Heiliger Geist, der Leben verheißt,<br>
-sei um uns auf unsern Wegen.<br>
