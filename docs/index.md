@@ -1,3 +1,3 @@
 # Liedtexte Ev.-Ref. Kirchengemeinde Neunkirchen
 
-Herzlich Willkommen zu den Liedtexten des heutigen Gottesdienstes am 10.08.2025.
+Herzlich Willkommen zu den Liedtexten des heutigen Gottesdienstes am 17.08.2025.
