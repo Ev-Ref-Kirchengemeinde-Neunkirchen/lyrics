@@ -36,6 +36,14 @@ Deine Liebe macht ihn frei<br>
 von aller Tyrannei,<br>
 wenn er auf dich vertraut.<br>
 
+## Chorus
+Darum bete ich dich an,<br>
+weil ich nicht schweigen kann;<br>
+die Freude füllt mein Singen.<br>
+Staunend habe ich erkannt:<br>
+ich bin in deiner Hand,<br>
+und du lässt mich nicht los.<br>
+
 ## Vers 3
 Herr, weil du der Herrscher bist<br>
 und alle Menschen siehst,<br>
@@ -49,6 +57,15 @@ dann wirst du sichtbar kommen.<br>
 Mit uns sehnt sich die Natur<br>
 und alle Kreatur<br>
 nach deiner Herrlichkeit.<br>
+
+## Chorus
+Darum bete ich dich an,<br>
+weil ich nicht schweigen kann;<br>
+die Freude füllt mein Singen.<br>
+Staunend habe ich erkannt:<br>
+ich bin in deiner Hand,<br>
+und du lässt mich nicht los.<br>
+
 
 Peter Strauch
 CCLI Song #4326067
