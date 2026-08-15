@@ -18,11 +18,11 @@ Die auch mal Unsinn machen, o Herr, schenk ihnen Mut.<br>
 Wir brauchen ihren Lebenssaft – zu nüchtern ist die Welt!<br>
 Gib den Verrückten Kraft!<br>
 
-## Vers 4
+<!--## Vers 4
 Wer Fragen hat und Zweifel, den lade zu dir ein.<br>
 Lass ihn in deiner Kirche bei uns zu Hause sein,<br>
 weil Glaube nur lebendig ist, wo wir gemeinsam suchen<br>
-– halt an den Zweiflern fest!<br>
+– halt an den Zweiflern fest!<br>-->
 
 ## Vers 5
 So schenk nun deinen Segen und führe uns ganz sacht,<br>

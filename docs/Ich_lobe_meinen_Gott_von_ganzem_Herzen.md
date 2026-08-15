@@ -15,8 +15,14 @@ Erzählen will ich von all seiner Liebe<br>
 und preisen seine Gnade.<br>
 Ich singe meinem Gott von ganzem Herzen.<br>
 
+## Refrain
+Ich freue mich und bin fröhlich, Herr, in dir. Halleluja! (2x)
+
 ## Vers 3
 Ich danke meinem Gott von ganzem Herzen.<br>
 Erzählen will ich, dass er alle Menschen<br>
 in seinen Händen trägt.<br>
 Ich danke meinem Gott von ganzem Herzen.<br>
+
+## Refrain
+Ich freue mich und bin fröhlich, Herr, in dir. Halleluja! (2x)
